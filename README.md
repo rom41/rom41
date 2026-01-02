@@ -1,4 +1,4 @@
-<h1>Hi, I'm Roman <br/><a href="https://github.com/rom41">Project Manager</a>, <a href="https://github.com/rom41">Game Dev</a>, <a href="https://www.linkedin.com/in/rom41/">Cybersecurity</a>, <a href="https://www.linkedin.com/in/rom41/">Network Engineer</a>
+<h1>Hi, I'm Roman! <br/><a href="https://github.com/rom41">Project Manager</a>, <a href="https://github.com/rom41">Game Dev</a>, <a href="https://www.linkedin.com/in/rom41/">Cybersecurity</a>, <a href="https://www.linkedin.com/in/rom41/">Network Engineer</a>
 
 <h2>📟 Projects Development:</h2>
 
