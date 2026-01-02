@@ -2,12 +2,12 @@
 
 <h2>📟 Projects Development:</h2>
 
-- <b>Extended Reality Project:</b>
+- <b>Extended Reality Project</b>
   - Virtual Reality HSE Training
   - Mixed Reality Ironman Suit Demo
   - Mixed Reality Motorcycle Engine Showcases
 
-- <b>Networking & Cybersecurity:</b>
+- <b>Networking & Cybersecurity</b>
   - Ubuntu Server NAS Cofiguration
   - Metasploitable 2 Lab Kali Linux Setup
 
