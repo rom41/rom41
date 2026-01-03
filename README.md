@@ -1,14 +1,14 @@
 <h1>Hi, I'm Roman! <br/><a href="https://github.com/rom41">Project Manager</a>, <a href="https://github.com/rom41">Game Dev</a>, <a href="https://www.linkedin.com/in/rom41/">Cybersecurity</a>, <a href="https://www.linkedin.com/in/rom41/">Network Engineer</a>
 
-<h2>📟 Projects Development:</h2>
+<h2>💻 Projects & Development</h2>
 
 - <b>Extended Reality Project</b>
   - Virtual Reality HSE Training
   - Mixed Reality Ironman Suit Demo
   - Mixed Reality Motorcycle Engine Showcases
 - <b>Networking & Cybersecurity</b>
-  - Ubuntu Server NAS Cofiguration
-  - Metasploitable 2 Lab Kali Linux Setup
+  - Local NAS with Ubuntu Server
+  - Metasploitable Lab Setup
 
 <!--
 <h2>👨‍💻 Software Development Projects:</h2>
