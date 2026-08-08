@@ -7,8 +7,9 @@
   - Mixed Reality Ironman Suit Demo
   - Mixed Reality Motorcycle Engine Showcases
 - <b>Networking & Cybersecurity</b>
-  - Local NAS with Ubuntu Server
-  - Metasploitable Lab Setup
+  - Local NAS with ACL
+  - Metasploitable2 Exploit
+  - CVE 2026 Copy Fail PoC
 
 <!--
 <h2>👨‍💻 Software Development Projects:</h2>
